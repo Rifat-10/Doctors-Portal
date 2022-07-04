@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import { Routes, Route, Link } from "react-router-dom";
 import Home from './Home/Home';
-import About from './Pages/About';
+import About from './Pages/About/About';
 import Navbar from './Shared/Navbar';
 function App() {
   return (
